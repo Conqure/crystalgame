@@ -1,0 +1,17 @@
+.pics {
+size: 250px;
+}
+
+.instructins {
+    width: 700px;
+    height: auto;
+    background-color: lightgray;
+    font-size: 20px;
+    border: black;
+}
+.swl{
+    width: 200px;
+    height: auto;
+    background-color: red;
+
+}
